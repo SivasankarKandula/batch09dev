@@ -1,4 +1,8 @@
 # Databricks notebook source
+PRINT('TEST')
+
+# COMMAND ----------
+
 def test(a, b):
     c = a + b
     print(c)
